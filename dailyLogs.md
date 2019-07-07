@@ -14,4 +14,21 @@
 - JSON.stringify()
 
 2. Go through the code of the book list project and try to tweak and improve it.
+
+3. [Architecting Web Apps](https://www.youtube.com/watch?v=Vg60lf92EkM)
 ___
+
+#7th July 2019
+Q) : Question
+<br> N) : Note
+
+## Things covered
+1. Reviewing the codes for the Book List project
+- [static method in Class](https://www.youtube.com/watch?v=8gWvJx-NP-w&t=342s)
+<br> Q) Why is it used and when do we use it?
+- JSON
+<br> N) I studied this part in Eloquent JS. But I need to master why, how, and what of this.
+
+## Things need to touch again
+1. Storage & localStorage: This is my first time to see the two syntax. They will be covered in Eloquent Javascript which is on p326.
+2. Question: How a developer build a web app from scratch.
