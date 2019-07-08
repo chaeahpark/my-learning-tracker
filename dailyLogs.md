@@ -32,3 +32,14 @@ Q) : Question
 ## Things need to touch again
 1. Storage & localStorage: This is my first time to see the two syntax. They will be covered in Eloquent Javascript which is on p326.
 2. Question: How a developer build a web app from scratch.
+___
+
+#8th July 2019
+## Things covered
+1. The Document Object Model(DOM) through Eloquent JS
+- The difference between getElementByTagName (live) and querySelector (x live).
+2. Review the code of the Book List project.
+- [Element.classList](https://www.youtube.com/watch?v=xd_Nip09pzo):
+<br> Element.classList.add() / Element.classList.remove()/Element.classList.remove()   
+<br>
+N) I can use it in order to control CSS depending on input from users. 
