@@ -42,4 +42,29 @@ ___
 - [Element.classList](https://www.youtube.com/watch?v=xd_Nip09pzo):
 <br> Element.classList.add() / Element.classList.remove()/Element.classList.remove()   
 <br>
-N) I can use it in order to control CSS depending on input from users. 
+N) I can use it in order to control CSS depending on input from users.
+3. [Syntax parse, Lexical Environment, and Execution context](https://hackernoon.com/javascript-execution-context-and-lexical-environment-explained-528351703922)
+
+___
+#9th July 2019
+## Things covered
+1. Handling Events through Eloquent JS
+- [web worker](https://www.youtube.com/watch?v=EiPytIxrZtU)
+- [Debouncing](https://www.youtube.com/watch?v=QvJx9nXWmKc) & Throttiling
+2. Array.from() : it creates a new array instance from an array-like or iterable objects.
+
+3. The global environment and global object:
+- When JS is run, execution context is created.
+- Then global object (window) and 'this' are created.
+  <br> Q1) What is _'this'_?
+  <br> Q2) What is _'window'_?
+  <br> Q3) Are they same?
+  <br> Q4) Is _"window"_ different than _'Window'_?
+  <br> Q5) What is _'Window'_?
+
+  <br> Answers : ![](img\201900709_globalObject.png)
+4. Kicked off **"Weather App"** project.
+- fetch API
+
+## Things need to touch again
+1. the concept of closure
