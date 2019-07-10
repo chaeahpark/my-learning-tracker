@@ -68,3 +68,19 @@ ___
 
 ## Things need to touch again
 1. the concept of closure
+
+___
+
+#10th July 2019
+## Things covered
+1. Working with <canvas>
+2. closures :
+- "when an inner function has access to members of the outer function even when executing outside the scope of the outer function." by [Paul Upendo](https://scotch.io/tutorials/understanding-javascript-closures-a-practical-approach)
+- IIFE (immediately invoked function)
+3. Weather project:
+- face with 505 error
+- what is CORS?
+
+## Things to touch again
+1. [scope, environments and closures](http://speakingjs.com/es5/ch16.html)
+2. [CORS](https://www.html5rocks.com/en/tutorials/cors/#toc-cross-domain-from-chrome-extensions)
