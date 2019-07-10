@@ -62,7 +62,7 @@ ___
   <br> Q4) Is _"window"_ different than _'Window'_?
   <br> Q5) What is _'Window'_?
 
-  <br> Answers : [](img\201900709_globalObject.png)
+  <br> Answers : ![testing window and this](/img/201900709_globalObject.png)
 4. Kicked off **"Weather App"** project.
 - fetch API
 
