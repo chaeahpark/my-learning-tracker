@@ -1,10 +1,10 @@
-#5th July 2019
-##Things covered
+# 5th July 2019
+## Things covered
 1. Read Eloquent Javascript (Javascript and the browser)
 2. Built a book list with a [Traversy Media tutorial](https://www.youtube.com/watch?v=JaMCxVWtW58)
 3. Created My Leaning Tracker repo. It was inspired from [the article by Syk Houdeib](https://www.freecodecamp.org/news/how-i-switched-careers-and-got-a-developer-job-in-10-months-a-true-story-b8895e855a8b/)
 
-##Things need to touch again
+## Things need to touch again
 1. There are several syntax which were new to me. I will cover them tomorrow.
 - createTextNode()
 - insertBefore()
@@ -18,7 +18,7 @@
 3. [Architecting Web Apps](https://www.youtube.com/watch?v=Vg60lf92EkM)
 ___
 
-#7th July 2019
+# 7th July 2019
 Q) : Question
 <br> N) : Note
 
@@ -34,7 +34,7 @@ Q) : Question
 2. Question: How a developer build a web app from scratch.
 ___
 
-#8th July 2019
+# 8th July 2019
 ## Things covered
 1. The Document Object Model(DOM) through Eloquent JS
 - The difference between getElementByTagName (live) and querySelector (x live).
@@ -46,7 +46,7 @@ N) I can use it in order to control CSS depending on input from users.
 3. [Syntax parse, Lexical Environment, and Execution context](https://hackernoon.com/javascript-execution-context-and-lexical-environment-explained-528351703922)
 
 ___
-#9th July 2019
+# 9th July 2019
 ## Things covered
 1. Handling Events through Eloquent JS
 - [web worker](https://www.youtube.com/watch?v=EiPytIxrZtU)
@@ -71,7 +71,7 @@ ___
 
 ___
 
-#10th July 2019
+# 10th July 2019
 ## Things covered
 1. Working with <canvas>
 2. closures :
@@ -80,6 +80,7 @@ ___
 3. Weather project:
 - face with 505 error
 - what is CORS?
+4. Execution context: creation and hoisting
 
 ## Things to touch again
 1. [scope, environments and closures](http://speakingjs.com/es5/ch16.html)
