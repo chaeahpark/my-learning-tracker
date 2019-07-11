@@ -85,3 +85,10 @@ ___
 ## Things to touch again
 1. [scope, environments and closures](http://speakingjs.com/es5/ch16.html)
 2. [CORS](https://www.html5rocks.com/en/tutorials/cors/#toc-cross-domain-from-chrome-extensions)
+___
+
+# 11th July 2019
+## Things covered
+1. interact with forms using JS
+2. [closure, scope, hoisting, global execution, execution context](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
+* A great tool: https://tylermcginnis.com/
