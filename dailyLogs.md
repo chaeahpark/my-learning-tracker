@@ -92,3 +92,9 @@ ___
 1. interact with forms using JS
 2. [closure, scope, hoisting, global execution, execution context](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
 * A great tool: https://tylermcginnis.com/
+* Article: https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53
+
+___
+# 13th July 2019
+## Things covered
+1. [Node JS](https://www.youtube.com/watch?v=TlB_eWDSMt4) & NPM
