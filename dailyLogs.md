@@ -98,3 +98,11 @@ ___
 # 13th July 2019
 ## Things covered
 1. [Node JS](https://www.youtube.com/watch?v=TlB_eWDSMt4) & NPM
+
+___
+# 14th July 2019
+## Things covered
+1. Node JS
+
+## Things to touch again
+1. Node - EventEmitter
