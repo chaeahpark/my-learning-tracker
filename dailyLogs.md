@@ -91,7 +91,7 @@ ___
 ## Things covered
 1. interact with forms using JS
 2. [closure, scope, hoisting, global execution, execution context](https://www.youtube.com/watch?v=Nt-qa_LlUH0)
-* A great tool: https://tylermcginnis.com/
+* A great tool: https://tylermcginnis.com/javascript-visualizer/
 * Article: https://blog.bitsrc.io/understanding-scope-and-scope-chain-in-javascript-f6637978cf53
 
 ___
@@ -106,3 +106,28 @@ ___
 
 ## Things to touch again
 1. Node - EventEmitter
+___
+# 16th July 2019
+## Things covered
+1. Forced directed graph (from Eloquent JS book)
+2. [Understanding ECMA script 6](https://leanpub.com/understandinges6/read/?fbclid=IwAR0VOEwAYqzzMQAb1aJSiGM27eknlRB6fHcCZPlJ1UIXp30Ppc8Z5IEHXOo#leanpub-auto-about-this-book)
+3. 'undefined'
+4. execution context, execution stack
+5. Meditation App project
+
+*  html:
+* data-: https://www.w3schools.com/tags/att_data-.asp
+* loop: https://www.w3schools.com/tags/att_loop.asp
+* transform
+
+* CSS
+* pointer-events: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
+https://www.youtube.com/watch?v=3zkvVwOV3oQ
+* transitions: https://www.w3schools.com/css/css3_transitions.asp
+* :nth-child()
+
+## Things to touch again
+1. review the meditation app
+
+## A thing to start from tomorrow
+1. Go through [Understanding ECMAScript 6](https://bit.ly/2XYS4VZ)
