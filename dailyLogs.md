@@ -115,19 +115,45 @@ ___
 4. execution context, execution stack
 5. Meditation App project
 
-*  html:
+(html)
 * data-: https://www.w3schools.com/tags/att_data-.asp
+<br> example:
+![html data attribute and interact with JS](/img/20190716 data-attribute.png)
 * loop: https://www.w3schools.com/tags/att_loop.asp
-* transform
 
-* CSS
-* pointer-events: https://developer.mozilla.org/en-US/docs/Web/CSS/pointer-events
-https://www.youtube.com/watch?v=3zkvVwOV3oQ
+(CSS)
+* pointer-events:
+<br>https://www.youtube.com/watch?v=3zkvVwOV3oQ
 * transitions: https://www.w3schools.com/css/css3_transitions.asp
-* :nth-child()
+* transform
+* :nth-child():
+<br>https://www.w3schools.com/cssref/sel_nth-child.asp
 
 ## Things to touch again
 1. review the meditation app
 
 ## A thing to start from tomorrow
 1. Go through [Understanding ECMAScript 6](https://bit.ly/2XYS4VZ)
+
+___
+# 17th July 2019
+## Things covered
+1. review the code of the meditation app built yesterday.
+(HTML & CSS)
+* it is hard to get what pointer-events do and how it can be used.
+* transition:
+<br> https://www.w3schools.com/css/tryit.asp?filename=trycss3_transition1
+<br> https://www.w3schools.com/css/css3_transitions.asp
+* :nth-child()
+* stroke-dasharray (in svg):
+<br>
+<br>
+
+(JS)
+* getTotalLength():
+<br>https://developer.mozilla.org/en-US/docs/Web/API/SVGPathElement/getTotalLength
+* ontimeupdate (DOM Event):
+<br>https://www.w3schools.com/jsref/event_ontimeupdate.asp
+
+## Things to touch again
+1. pointer-events

@@ -33,18 +33,18 @@ The table was inspired by kamranahmedse's developer-roadmap.
 |1. Syntax and Basic Constructs |:large_blue_circle:|:large_blue_circle: | | | |
 |2. DOM Manipulation |:large_blue_circle: | :large_blue_circle:| | | |
 |3. Fetch API / AJAX (XHR|:large_blue_circle:| | | | |
-|4. ES6+ and Modular JS | :large_blue_circle:| | | | |
+|4. ES6+ and Modular JS |:large_blue_circle:| | | | |
 |5. Understanding Concepts | | | | | |
 |*5.1. hoisting*|:large_blue_circle:|:large_blue_circle:| | | |
 |*5.2. event bubbling*| | | | | |
 |*5.3. scope*|:large_blue_circle:|:large_blue_circle:| | | |
 |*5.4. prototype*|:large_blue_circle:|:large_blue_circle: | | | |
 |*5.5. shadow DOM*| | | | | |
-|*5.6. how browser work*| | | | | |
+|*5.6. how browser work*|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| | |
 |*5.7. DNS*| | | | | |
 |*5.8. HTTP|:large_blue_circle:|:large_blue_circle:| | | |
 |6. React.js|:large_blue_circle:| | | | |
-|**Package Manager: npm**| | | | | |
+|**Package Manager: npm**|:large_blue_circle:| | | | |
 |**Testing Apps**| | | | | |
 |1. Unit, Integration, Functional| | | | | |
 |2. Jest | | | | | |
