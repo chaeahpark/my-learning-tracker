@@ -17,15 +17,15 @@ The table was inspired by kamranahmedse's developer-roadmap.
 |  2. Basic SEO | | | | | |
 |  3. Accessibility| | | | | |
 | **CSS** | | | | | |
-| 1. Floats| | | | | |
+| 1. Floats|:large_blue_circle:| | | | |
 | 2. Making Layouts| | | | | |
 | *2.1. positioning*| | | | | |
 | *2.2 display*| | | | | |
 | *2.3 box model*| | | | | |
-| *2.4 css grid*| | | | | |
-| *2.5 flex box*| | | | | |
-| 3. Media Queries| | | | | |
-| 4. Learn CSS3 | | | | | |
+| *2.4 css grid*|:large_blue_circle:| | | | |
+| *2.5 flex box*|:large_blue_circle:| | | | |
+| 3. Media Queries|:large_blue_circle:|:large_blue_circle:| | | |
+| 4. Learn CSS3 |:large_blue_circle:|:large_blue_circle:| | | |
 | 5. SASS | | | | | |
 | 6. Bootstrap| | | | | |
 | 7. BEM| | | | | |
