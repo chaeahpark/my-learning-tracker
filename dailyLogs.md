@@ -167,5 +167,5 @@ ___
 - type coersion
 - Boolean: null, undefined, " " and 0 are regarded as false.
 - setting default values:
-![default value example](./img/20190718 defaultData.png)
+![default value example](/img/20190718 defaultData.png)
 - strict equality(===) and strict inequality(!==)
