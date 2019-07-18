@@ -118,7 +118,7 @@ ___
 (html)
 * data-: https://www.w3schools.com/tags/att_data-.asp
 <br> example:
-![html data attribute and interact with JS](/img/20190716 data-attribute.png)
+<br> ![html data attribute and interact with JS](/img/20190716 data-attribute.png)
 * loop: https://www.w3schools.com/tags/att_loop.asp
 
 (CSS)
@@ -167,5 +167,5 @@ ___
 - type coersion
 - Boolean: null, undefined, " " and 0 are regarded as false.
 - setting default values:
-![default value example](/img/20190718 defaultData.png)
+<br>![default value example](/img/20190718 defaultData.png)
 - strict equality(===) and strict inequality(!==)
