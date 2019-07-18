@@ -157,3 +157,15 @@ ___
 
 ## Things to touch again
 1. pointer-events
+
+___
+# 18th July 2019
+## Things covered
+1. Review Eloquent JS Chapter 1
+- operators: they are special FUNCTIONS
+- Unary operators: operators that take one value.
+- type coersion
+- Boolean: null, undefined, " " and 0 are regarded as false.
+- setting default values:
+![default value example](./img/20190718 defaultData.png)
+- strict equality(===) and strict inequality(!==)

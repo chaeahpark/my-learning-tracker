@@ -25,7 +25,7 @@ The table was inspired by kamranahmedse's developer-roadmap.
 | *2.4 css grid*|:large_blue_circle:| | | | |
 | *2.5 flex box*|:large_blue_circle:| | | | |
 | 3. Media Queries|:large_blue_circle:|:large_blue_circle:| | | |
-| 4. Learn CSS3 |:large_blue_circle:|:large_blue_circle:| | | |
+| 4. Learn CSS3 |:large_blue_circle:|:large_blue_circle: | | | |
 | 5. SASS | | | | | |
 | 6. Bootstrap| | | | | |
 | 7. BEM| | | | | |
