@@ -169,3 +169,11 @@ ___
 - setting default values:
 <br><br> ![](/img/20190718-defaultData.png)
 - strict equality(===) and strict inequality(!==)
+
+___
+# 19th July 2019
+## Things covered
+1. Understanding JS engine (V8)
+
+## Things to touch again
+1. what are parser, compiler and runtime?
