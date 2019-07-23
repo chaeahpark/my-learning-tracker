@@ -177,3 +177,21 @@ ___
 
 ## Things to touch again
 1. what are parser, compiler and runtime?
+
+___
+# 23rd July 2019
+## Things covered
+1. Working for the shopping cart project.
+Those are the things that I get to know further
+In CSS,
+- position: sticky (for nav bar)
+- grid template columns: auto fit and
+
+<br><br>In JS
+- working with local json file when using "fetch" syntax. There was an ERROR showing the message below on the console.
+<br> app.js:20 Fetch API cannot load file URL scheme must be "http" or "https" for CORS request.
+
+When it comes to using fetch, it requires to have server where the data is. In order to solve the problem temporarily, I installed a live server plugin on my text editor.
+
+2. Optimizing my text editor.
+It is bit messy to work with my text editor. I regard to change my text editor into another one.
