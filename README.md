@@ -15,7 +15,7 @@ The table was inspired by kamranahmedse's developer-roadmap.
 | **HTML** | | | |||
 |  1. Learn the Basics|:large_blue_circle:|:large_blue_circle: |:large_blue_circle:|:large_blue_circle:|:large_blue_circle:|
 |  2. Basic SEO | | | | | |
-|  3. Accessibility| | | | | |
+|  3. Accessibility|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| | |
 | **CSS** | | | | | |
 | 1. Floats|:large_blue_circle:| | | | |
 | 2. Making Layouts|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| | |
@@ -27,7 +27,7 @@ The table was inspired by kamranahmedse's developer-roadmap.
 | 3. Media Queries|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| | |
 | 4. Learn CSS3 |:large_blue_circle:|:large_blue_circle: |:large_blue_circle:|:large_blue_circle:| |
 | 5. SASS | | | | | |
-| 6. Bootstrap| | | | | |
+| 6. Bootstrap|:large_blue_circle:|:large_blue_circle:| | | |
 | 7. BEM|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| |
 |**JAVASCRIPT** | | | | | |
 |1. Syntax and Basic Constructs |:large_blue_circle:|:large_blue_circle: | | | |
