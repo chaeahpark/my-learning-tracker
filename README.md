@@ -28,7 +28,7 @@ The table was inspired by kamranahmedse's developer-roadmap.
 | 4. Learn CSS3 |:large_blue_circle:|:large_blue_circle: |:large_blue_circle:|:large_blue_circle:| |
 | 5. SASS | | | | | |
 | 6. Bootstrap| | | | | |
-| 7. BEM| | | | | |
+| 7. BEM|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:|:large_blue_circle:| |
 |**JAVASCRIPT** | | | | | |
 |1. Syntax and Basic Constructs |:large_blue_circle:|:large_blue_circle: | | | |
 |2. DOM Manipulation |:large_blue_circle: | :large_blue_circle:| | | |
